@@ -68,6 +68,7 @@ ul{
 	margin:1em;
 	background-color: var(--buttonColor);
 	border-radius: 4px;
+	color:var(--secondaryText);
 }
 .w3-button:hover{
 	background-color: var(--buttonColorHover);
