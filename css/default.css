@@ -65,6 +65,7 @@ ul{
 }
 
 .w3-button{
+	margin:1em;
 	background-color: var(--buttonColor);
 	border-radius: 4px;
 }
