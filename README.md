@@ -1,4 +1,5 @@
 # Portfolio Website
 
-A portfolio website to display my experiences and projects.
+A portfolio website to display experiences and projects.
+<br>
 Created using HTML, CSS, and JavaScript.
